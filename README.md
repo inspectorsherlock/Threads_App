@@ -85,19 +85,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-MONGODB_URL=
-CLERK_SECRET_KEY=
-UPLOADTHING_SECRET=
-UPLOADTHING_APP_ID=
-NEXT_CLERK_WEBHOOK_SECRET=
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-```
-
 
 
 #
