@@ -12,7 +12,7 @@
 
   <h3 align="center">Full stack Threads Clone</h3>
 
-Link to see demo of the Threads application can be seen here: https://threads-app-gamma-three.vercel.app/ 
+Link to see demo of the Threads application can be seen here (requires registration sign-in): https://threads-app-gamma-three.vercel.app/ 
 
 ## <a name="introduction">🤖 Introduction</a>
 
